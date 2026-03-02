@@ -1,4 +1,5 @@
 {
+
   "name": "my-app",
   "version": "1.0.0",
   "description": "",
@@ -18,5 +19,25 @@
   },
   "devDependencies": {
     "drizzle-kit": "^0.20.0"
+
+  "name": "khai-node-js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvbykovskykh-art/khai-node-js-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvbykovskykh-art/khai-node-js-course/issues"
+  },
+  "homepage": "https://github.com/mvbykovskykh-art/khai-node-js-course#readme",
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
